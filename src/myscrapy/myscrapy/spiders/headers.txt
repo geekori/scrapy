@@ -1,0 +1,9 @@
+Accept:text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding:gzip, deflate
+Accept-Language:zh-CN,zh;q=0.9,en;q=0.8
+Connection:keep-alive
+Cookie:vjuids=-52948a28f.1601a7eac60.0.9637c825e6663; UM_distinctid=1601a7eac8df72-0adebcba19b017-173f6d55-15f900-1601a7eac8ec55; f_city=%E6%B2%88%E9%98%B3%7C101070101%7C; __auc=a969e84a16040f2890940fb5132; Hm_lvt_080dabacb001ad3dc8b9b9049b36d43b=1516548318,1517109526; vjlast=1512272997.1517109526.21; Wa_lvt_1=1516548318,1517109526; Hm_lpvt_080dabacb001ad3dc8b9b9049b36d43b=1517109719; Wa_lpvt_1=1517109719
+Host:d1.weather.com.cn
+Referer:http://d1.weather.com.cn/sk_2d/101010100.html
+Upgrade-Insecure-Requests:1
+User-Agent:Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
